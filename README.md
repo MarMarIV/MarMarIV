@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarMarIV
 - 👀 I’m interested in Xamarin mobile development, MAUI
-- 🌱 I’m currently learning to write tests
+- 🌱 I’m currently learning not to go crazy
 
 
 <!---
